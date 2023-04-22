@@ -2587,7 +2587,7 @@ li {
   background-color: #a9ead2;
   background-image: url("bg2.png");
   background-position: 50% 50%;
-  background-size: contain;
+  background-size: cover;
   background-repeat: repeat;
   background-attachment: fixed;
 }
